@@ -1,4 +1,4 @@
-G:\Trae\math-beauty\android\app\build\outputs\apk\debugimport { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import MandelbrotFractal from './components/MandelbrotFractal';
 import GoldenSpiral from './components/GoldenSpiral';
 import ParticleFlow from './components/ParticleFlow';
