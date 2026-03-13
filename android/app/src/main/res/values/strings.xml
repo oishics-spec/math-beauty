@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MathBeauty</string>
+    <string name="title_activity_main">MathBeauty</string>
+    <string name="package_name">com.math.beauty</string>
+    <string name="custom_url_scheme">com.math.beauty</string>
+</resources>
